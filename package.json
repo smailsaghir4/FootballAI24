@@ -1,0 +1,24 @@
+{
+  "name": "footballai24",
+  "version": "2.0.0",
+  "description": "AI-Powered Football News & Live Scores Platform",
+  "author": "smailsaghir4",
+  "license": "MIT",
+  "keywords": [
+    "football",
+    "soccer",
+    "live-scores",
+    "news",
+    "sports",
+    "api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smailsaghir4/FootballAI24.git"
+  },
+  "homepage": "https://football-ai-24.vercel.app",
+  "scripts": {
+    "dev": "http-server",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
