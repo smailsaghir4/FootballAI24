@@ -1,14 +1,4 @@
 {
-  "buildCommand": "echo 'Build complete'",
-  "outputDirectory": ".",
-  "env": {
-    "API_FOOTBALL_KEY": "@api_football_key",
-    "GNEWS_API_KEY": "@gnews_api_key"
-  },
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/index.html"
-    }
-  ]
+  "version": 2,
+  "outputDirectory": "."
 }
