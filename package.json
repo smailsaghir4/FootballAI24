@@ -2,9 +2,7 @@
   "name": "footballai24",
   "version": "1.0.0",
   "private": true,
-  "description": "AI Football News Website",
   "scripts": {
-    "dev": "serve .",
-    "build": "echo \"Static site - no build required\""
+    "build": "echo Build completed"
   }
 }
